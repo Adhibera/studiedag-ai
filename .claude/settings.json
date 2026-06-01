@@ -1,0 +1,11 @@
+{
+  "model": "opus",
+  "permissions": {
+    "allow": [
+      "Read(./**)",
+      "Edit(./**)",
+      "Write(./**)",
+      "Bash(xdg-open *)"
+    ]
+  }
+}
